@@ -31,7 +31,11 @@ demander au main de fusionner le contenu de la branche vers la branche main
 ### Fusionner (Merge)
 Fusionner les branches pour avoir une nouvelle version 
 
-### ceci est mon commit ram33n92
-tous les modifications/commit de ma part sera dans cette branche
+### Cloner 
+
+### Push / Push
+
+### Depuis un client (Github Desktop)
+
 
 
