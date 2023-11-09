@@ -1,5 +1,5 @@
 # H24-2PR-TestProjet
-H24-2PR-TestProjet
+H24-2PR-Test Projet
 
 ## Description Projet
 Ce projet est un test du cours 2PR
