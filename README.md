@@ -12,7 +12,12 @@ Il y'a une branche principale (main) qui contient des commits
 il y'aura d'autres branches secondaires
 - configurer la license 
 - configurer gitignore
-- nom, visibilité 
+- nom, visibilité
+
+### Ajout de collaborateur
+
+
+
 ### Commit
 - un changement associé à un message avec une emprunte numérique
 - peut être en local sans push vers le serveur ...  
@@ -22,6 +27,9 @@ En général sert à developper de nouvelles fonctionnalité, les tester en ensu
 
 ### Pull request
 demander au main de fusionner le contenu de la branche vers la branche main 
+
+### Fusionner (Merge)
+Fusionner les branches pour avoir une nouvelle version 
 
 ### ceci est mon commit ram33n92
 tous les modifications/commit de ma part sera dans cette branche
