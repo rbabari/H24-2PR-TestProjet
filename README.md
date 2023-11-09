@@ -11,7 +11,8 @@ Ce projet est un test du cours 2PR
 - configurer gitignore
 - nom, visibilité 
 ### Commit
-
+- un changement associé à un message avec une emprunte numérique
+- peut être en local sans push vers le serveur ...  
 
 
 
