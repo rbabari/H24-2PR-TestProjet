@@ -16,7 +16,7 @@ il y'aura d'autres branches secondaires
 
 ### Ajout de collaborateur
 
-wertr
+
 
 ### Commit
 - un changement associé à un message avec une emprunte numérique
