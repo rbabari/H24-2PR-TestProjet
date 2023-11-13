@@ -38,4 +38,23 @@ Fusionner les branches pour avoir une nouvelle version
 ### Depuis un client (Github Desktop)
 
 
+------------------------------------------
+
+## Gestion de projet avec github
+
+### Créer un projet 
+- un projet : plusieurs (tâches) à faire par plusieurs personnes (ressources) en respectant un délais (milestone)
+- un tableau Kanban (to do, in progress, in review , done )
+
+### Système de tâches : (issues)
+- créer un issue 
+- asssocier un issue à un utilisateur
+- définir la date butoire (milestone) 
+
+### tâche & branches
+- associer une branche à une tâche
+- associer une fusion (merge) à la fermeture de la tâche (issue)
+
+
+## Publier votre readme.md sur le web 
 
