@@ -54,6 +54,7 @@ Fusionner les branches pour avoir une nouvelle version
 ### tâche & branches
 - associer une branche à une tâche
 - associer une fusion (merge) à la fermeture de la tâche (issue)
+- test jm tâche de Fio branche 22
 
 
 ## Publier votre readme.md sur le web 
