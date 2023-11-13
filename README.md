@@ -50,7 +50,7 @@ Fusionner les branches pour avoir une nouvelle version
 - créer un issue 
 - asssocier un issue à un utilisateur
 - définir la date butoire (milestone) 
-
+**
 ### tâche & branches
 - associer une branche à une tâche
 - associer une fusion (merge) à la fermeture de la tâche (issue)
